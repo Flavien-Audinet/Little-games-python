@@ -1,6 +1,8 @@
 # Little-games-python
-Petit jeux creer pour passer le temps entre amis et decouvrir la programmation python
+Petits jeux en Python pour s’amuser entre amis et découvrir la programmation
 
-il y a plusieur version car j'ai optimiser les performance, la taille du code et quelque defi que je voulais relever a mes debut en python
-
-Fait entre 2019 et 2021
+Plusieurs versions développées pour :
+Optimiser les performances
+Réduire la taille du code
+Relever des défis personnels (mes débuts en Python)
+Période : 2019 – 2021
